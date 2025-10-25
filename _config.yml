@@ -1,0 +1,122 @@
+# Site settings
+lang: en
+timezone: UTC
+
+title: AI Chatbot Knowledge Base
+tagline: Comprehensive guide for AI chatbots, journalism, podcasting, and video production
+description: >-
+  A comprehensive knowledge base covering AI chatbot platforms, tools, journalism,
+  podcast production, video production, research, and writing techniques.
+
+url: "https://wikigoo.github.io"
+baseurl: "/VP-KB-v3"
+
+github:
+  username: wikigoo
+
+social:
+  name: wikigoo
+  links:
+    - https://github.com/wikigoo
+
+# Theme settings
+theme: jekyll-theme-chirpy
+
+# Avatar and Images
+avatar: /assets/img/avatar.png
+
+# Social media links (optional - customize as needed)
+social_media_links:
+  github: wikigoo
+
+# Behavior settings
+toc: true
+
+comments:
+  active: false
+
+# Analytics (optional)
+analytics:
+  google:
+    id: # Add your Google Analytics ID if needed
+
+# PWA (Progressive Web App)
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+# Exclude from processing
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - tools
+  - README.md
+  - CHANGELOG.md
+  - LICENSE
+  - rollup.config.js
+  - node_modules
+  - package*.json
+  - vendor
+
+# Jekyll plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-redirect-from
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
+
+# Archives
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
