@@ -1,0 +1,28 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+Gemfile.lock
+vendor/
+.bundle/
+
+# System files
+.DS_Store
+Thumbs.db
+*~
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Node modules (if using any JS build tools)
+node_modules/
+package-lock.json
+
+# Assets
+assets/js/dist/
