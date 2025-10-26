@@ -1,3 +1,10 @@
+---
+title: 
+date: 2025-10-26
+categories:
+  - Ai Tools
+  - roleplay-writer
+---
 
 Title: “Caffeine and Contradictions”
 

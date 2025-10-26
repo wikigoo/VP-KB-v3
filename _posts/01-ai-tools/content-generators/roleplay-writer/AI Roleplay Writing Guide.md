@@ -3,6 +3,7 @@ title: AI Roleplay Writing Guide
 date: 2025-10-26
 categories:
   - Ai Tools
+  - roleplay-writer
 ---
 
 ```

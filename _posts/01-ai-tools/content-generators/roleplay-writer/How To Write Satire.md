@@ -1,15 +1,15 @@
 ---
-title: "How To Write Satire"
-source: "https://www.alexbaia.com/blog/how-to-write-satire"
+title: How To Write Satire
+source: https://www.alexbaia.com/blog/how-to-write-satire
 author:
   - "[[Written By Alex Baia]]"
   - "[[Alex Baia]]"
   - "[[McSweeney’s]]"
 published: 2019-04-11
-created: 2025-10-18
-description: "Want to write satire? Let’s dissect the short, humorous satire piece—the kind you might read in The Onion or McSweeney’s."
-tags:
-  - "clippings"
+description: Want to write satire? Let’s dissect the short, humorous satire piece—the kind you might read in The Onion or McSweeney’s.
+categories:
+  - Ai Tools
+  - roleplay-writer
 ---
 Learning how to write satire is surprisingly tough, but it can be very satisfying. I’m going to dissect some key principles behind the short, humorous satire piece—the kind you might read in The Onion or McSweeney’s. These types of satire and humor pieces are typically around 300-900 words. The author gets in quickly, makes a point, makes you laugh, and then we’re done. These pieces are a lot of fun to read and write.
 
