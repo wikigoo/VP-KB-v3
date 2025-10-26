@@ -106,6 +106,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-redirect-from
+  - jekyll-include-cache
 
 # Pagination
 paginate: 10
