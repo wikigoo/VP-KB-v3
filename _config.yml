@@ -20,7 +20,7 @@ social:
     - https://github.com/wikigoo
 
 # Theme settings
-# theme: jekyll-theme-chirpy  # Commented out to use local theme files
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Avatar and Images
 avatar: /assets/img/avatar.png
@@ -107,6 +107,7 @@ plugins:
   - jekyll-archives
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Pagination
 paginate: 10
