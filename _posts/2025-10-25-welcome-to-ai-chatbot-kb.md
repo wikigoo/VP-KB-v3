@@ -65,7 +65,7 @@ This knowledge base is designed to grow with your needs. Content is organized in
 
 ## Getting Started
 
-Ready to dive in? Start by exploring the [AI Chatbot section](/VP-KB-v3/01-ai-chatbot/) or browse the main categories from the homepage.
+Ready to dive in? Start by exploring the [AI Tools section](/VP-KB-v3/Content/01-ai-tools/) or browse the main categories from the homepage.
 
 ---
 
