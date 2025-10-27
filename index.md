@@ -1,6 +1,9 @@
 ---
 layout: home
 title: Home
+date: 2025-10-27
+categories:
+  - index
 ---
 
 # AI Chatbot Knowledge Base
