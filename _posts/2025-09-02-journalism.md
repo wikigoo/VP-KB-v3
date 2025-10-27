@@ -1,16 +1,17 @@
 ---
-title: 02-Journalism
-description: "Master AI-enhanced journalism techniques with 31 comprehensive guides:"
+title: 02.Journalism
+description: Master AI-enhanced journalism techniques with 31 comprehensive guides
 author: WikiGoo
-date: 2025-08-08 20:55:00 +0800
+date: 2025-09-02
 categories:
   - 02-journalism
 tags:
-  - 02-journalism
 pin: true
 media_subpath: /posts/20180809
 ---
+### Journalism Category
 
+Master AI-enhanced journalism techniques with 31 comprehensive guides
 - **AI Journalism**: Tools, guides, and research for modern journalism
 - **News Writing**: Articles, headlines, analytical pieces, and leads
 - **News Editing**: Editorial guides with English and Persian language resources
