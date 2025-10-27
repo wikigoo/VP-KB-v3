@@ -1,3 +1,10 @@
+---
+title: Voice Prompt
+date: 2025-10-27
+categories:
+  - Ai Tools
+  - prompt-library
+---
 
 پرامپت موسیقی اینترو خبری
 
