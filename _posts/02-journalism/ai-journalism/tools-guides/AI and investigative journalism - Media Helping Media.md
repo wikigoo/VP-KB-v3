@@ -1,13 +1,15 @@
 ---
-title: "AI and investigative journalism - Media Helping Media"
-source: "https://mediahelpingmedia.org/investigative/ai-and-investigative-journalism/"
+title: AI and investigative journalism - Media Helping Media
+source: https://mediahelpingmedia.org/investigative/ai-and-investigative-journalism/
 author:
   - "[[Media Helping Media]]"
 published: 2025-02-28
 created: 2025-10-15
-description: "The landscape of investigative journalism is undergoing a significant transformation, with artificial intelligence (AI) emerging as a powerful ally for reporters."
+description: The landscape of investigative journalism is undergoing a significant transformation, with artificial intelligence (AI) emerging as a powerful ally for reporters.
 tags:
-  - "clippings"
+categories:
+  - 02-journalism
+  - tools-guides
 ---
 [Home](https://mediahelpingmedia.org/)
 
