@@ -4,10 +4,11 @@ gem "jekyll", "~> 4.3.2"
 gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-sitemap", "~> 1.4"
+  # SEO plugins removed for personal knowledge base
+  # gem "jekyll-feed", "~> 0.12"
+  # gem "jekyll-sitemap", "~> 1.4"
+  # gem "jekyll-seo-tag", "~> 2.8"
   gem "jekyll-paginate", "~> 1.1"
-  gem "jekyll-seo-tag", "~> 2.8"
   gem "jekyll-archives", "~> 2.2"
   gem "jekyll-redirect-from", "~> 0.16"
   gem "jekyll-include-cache", "~> 0.2"

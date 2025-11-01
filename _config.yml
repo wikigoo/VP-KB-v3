@@ -22,12 +22,12 @@ social:
 # Theme settings
 theme: jekyll-theme-chirpy
 
-# Avatar and Images
-avatar: /assets/img/avatar.png
+# Avatar and Images (disabled - file doesn't exist)
+# avatar: /assets/img/avatar.png
 
-# Social media links (optional - customize as needed)
-social_media_links:
-  github: wikigoo
+# Social media links (disabled for personal knowledge base)
+# social_media_links:
+#   github: wikigoo
 
 # Behavior settings
 toc: true
@@ -35,16 +35,16 @@ toc: true
 comments:
   active: false
 
-# Analytics (optional)
-analytics:
-  google:
-    id: # Add your Google Analytics ID if needed
+# Analytics (disabled for personal knowledge base)
+# analytics:
+#   google:
+#     id:
 
-# PWA (Progressive Web App)
+# PWA (Progressive Web App) - disabled for personal use
 pwa:
-  enabled: true
+  enabled: false
   cache:
-    enabled: true
+    enabled: false
 
 # Build settings
 markdown: kramdown
@@ -98,12 +98,9 @@ exclude:
   - package*.json
   - vendor
 
-# Jekyll plugins
+# Jekyll plugins (SEO plugins removed for personal knowledge base)
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-seo-tag
   - jekyll-archives
   - jekyll-redirect-from
   - jekyll-include-cache
